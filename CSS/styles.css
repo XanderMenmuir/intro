@@ -1,0 +1,203 @@
+body {
+  color: 40514e;
+  margin: 0px;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: "Dancing Script", cursive;
+  color: rgb(65, 65, 116);
+  line-height: 0.5;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2rem;
+  color: rgb(65, 65, 116);
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: rgb(65, 65, 116);
+  font-family: "Montserrat", sans-serif;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #eaf6f6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 40px auto;
+}
+
+.footer-link {
+  color: rgb(65, 65, 116);
+  font-family: "Montserrat", sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: rgba(255, 255, 255, 0.562);
+}
+
+.copyright {
+  color: rgba(255, 255, 255, 0.562);
+  font-size: 0.75rem;
+  padding: 20px 0px;
+}
+
+.top-container {
+  background: linear-gradient(
+    rgba(55, 143, 194, 0.562),
+    rgba(119, 186, 190, 0.425)
+  );
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 50px 0px;
+}
+
+.bottom-container {
+  background-color: rgba(55, 143, 194, 0.562);
+  padding: 50px 0 20px;
+}
+
+.digital {
+  text-decoration: underline;
+}
+
+.skill-row {
+  width: 45%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+}
+
+.contact-message {
+  width: 80%;
+  margin: 40px auto 60px;
+}
+
+.contact-me {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 50px;
+  top: 45px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 50px;
+  top: 250px;
+  bottom: 300px;
+}
+
+.PP {
+  width: 12%;
+  border-radius: 200px;
+}
+
+.work {
+  width: 28%;
+  border-radius: 200px;
+  float: left;
+  margin-right: 30px;
+}
+
+.mma {
+  width: 28%;
+  border-radius: 200px;
+  float: right;
+  margin-left: 30px;
+}
+
+.intro {
+  width: 40%;
+  margin: auto;
+}
+
+.btn {
+  background: rgba(55, 143, 194, 0.562);
+
+  background-image: -webkit-linear-gradient(
+    top,
+    rgb(78, 78, 141),
+    rgb(57, 57, 104)
+  );
+
+  background-image: -moz-linear-gradient(
+    top,
+    rgb(78, 78, 141),
+    rgb(57, 57, 104)
+  );
+
+  background-image: -ms-linear-gradient(
+    top,
+    rgb(78, 78, 141),
+    rgb(57, 57, 104)
+  );
+
+  background-image: -o-linear-gradient(top, rgb(78, 78, 141), rgb(57, 57, 104));
+
+  background-image: linear-gradient(top, rgb(78, 78, 141), rgb(57, 57, 104));
+  -webkit-border-radius: 8;
+
+  -moz-border-radius: 8;
+
+  border-radius: 8px;
+
+  font-family: "Montserrat", sans-serif;
+
+  color: #ffffff;
+
+  font-size: 20px;
+
+  padding: 10px 20px 10px 20px;
+
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #7561ca;
+
+  background-image: -webkit-linear-gradient(
+    top,
+    rgb(55, 143, 194),
+    rgb(119, 186, 190)
+  );
+
+  background-image: -moz-linear-gradient(
+    top,
+    rgb(55, 143, 194),
+    rgb(119, 186, 190)
+  );
+
+  background-image: -ms-linear-gradient(
+    top,
+    rgb(55, 143, 194),
+    rgb(119, 186, 190)
+  );
+
+  background-image: -o-linear-gradient(
+    top,
+    rgb(55, 143, 194),
+    rgb(119, 186, 190)
+  );
+
+  background-image: linear-gradient(top, rgb(55, 143, 194), rgb(119, 186, 190));
+
+  text-decoration: none;
+}
