@@ -110,6 +110,13 @@ hr {
   border-radius: 200px;
 }
 
+@media (max-width: 480px) {
+  .PP {
+    width: 12%;
+    border-radius: 200px;
+  }
+}
+
 .work {
   width: 28%;
   border-radius: 200px;
