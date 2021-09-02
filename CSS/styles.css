@@ -111,18 +111,19 @@ hr {
 }
 
 .work {
-  width: 28%;
-  border-radius: 200px;
+  width: 12rem;
+  border-radius: 100rem;
   float: left;
   margin-right: 30px;
 }
 
 .mma {
-  width: 28%;
-  border-radius: 200px;
+  width: 12rem;
+  border-radius: 100rem;
   float: right;
   margin-left: 30px;
 }
+
 
 .intro {
   width: 40%;
